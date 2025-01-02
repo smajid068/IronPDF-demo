@@ -5,7 +5,7 @@
     public static int UserCount { get; set; } = 0;
     public static DateTime StartTime { get; set; } = DateTime.Now;
 
-    public static string IronLicenseKey = "IRONSUITE.DEVTEAM.IX5994-1B96F73E10-AVL72YRY2OX-LTOAP6UCU5AX-XPVWHC2RK6V6-4SUIBDY6NH57-GGVE6ZAQDR3X-MCYFIIXNHXKE-RGY7Q6-L62LNUAI4R22EA-ENTERPRISE-42GQE6.RENEW.SUPPORT.29.MAY.2034";
+    public static string IronLicenseKey = "Insert Your License Key Here";
     
     public static string inputHtmlFilePath                = "input/TestHtmlFile.htm";
     public static string inputWebUrlPath                  = "https://en.wikipedia.org/wiki/Jensen_Huang";
