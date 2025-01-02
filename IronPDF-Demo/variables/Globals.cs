@@ -1,10 +1,6 @@
 ﻿public static class Globals
 {
     // Define static fields or properties
-    public static string ApplicationName { get; set; } = "My Application";
-    public static int UserCount { get; set; } = 0;
-    public static DateTime StartTime { get; set; } = DateTime.Now;
-
     public static string IronLicenseKey = "Insert Your License Key Here";
     
     public static string inputHtmlFilePath                = "input/TestHtmlFile.htm";
